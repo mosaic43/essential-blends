@@ -1,0 +1,38 @@
+{
+  "name": "essential-blends",
+  "version": "1.0.0",
+  "description": "Essential Blends is a site to lookup and purchase essential blends and natural remedies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaic43/essential-blends.git"
+  },
+  "keywords": [
+    "essential",
+    "oils",
+    "blends",
+    "remedies",
+    "natural",
+    "homeopathy"
+  ],
+  "author": "Chantee Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosaic43/essential-blends/issues"
+  },
+  "homepage": "https://github.com/mosaic43/essential-blends#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "knex": "^0.20.4",
+    "package-name": "^0.1.0",
+    "pg": "^7.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
