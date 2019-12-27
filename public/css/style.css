@@ -7,6 +7,11 @@ body {
     padding: 0%;
     margin: 0%;
 }
+.setWidth {
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
 .whiteText {
     color: white !important;
 }
@@ -36,10 +41,14 @@ body {
 }
 
 .mainHome {
+    background-image: url(/images/homepagepic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 0%;
     height: 100%;
     width: 100vw;
 }
-
+.row {
+    width: 100%;
+}

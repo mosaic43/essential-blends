@@ -1,13 +1,13 @@
-.footerBox {
+/* .footerBox {
     background-color: rgb(9, 165, 92);
 color: white !important;
 width:100vw;
-/* height:16vh; */
+
 padding: 0px;
 padding-top:20px;
 margin-bottom: 0px;
 position: absolute;
-}
+} */
 .footerTitle {
     text-align: left !important;
     padding-left:30px;
@@ -24,4 +24,12 @@ position: absolute;
 }
 .rightFooter {
     padding-top:30px;
+}
+.mainHome {
+    margin: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 100%;
+    width: 100vw;
+    background-image: url(/public/images/homepagepic.jpg)
 }

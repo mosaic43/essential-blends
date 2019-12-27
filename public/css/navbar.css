@@ -5,8 +5,23 @@ body {
     width: 100%;
 }
 .navHome {
+    color: rgb(29, 27, 27) !important;
+    background-color: rgb(253, 253, 253);
+    font-family: cursive;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+/* .navHome {
     color: white !important;
     background-color: rgb(9, 165, 92);
+} */
+.navbar-brand {
+    color: black;
+    font-family: cursive;
+    font-size: xx-large;
+    padding-left: 5%;
+    width: 100%;
 }
 .subNavHome {
     margin: 0%;
@@ -45,6 +60,13 @@ body {
 .container {
     /* padding: 5%; */
     font-family: 'cnx-medium',Arial,sans-serif;
+    color: black;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+}
+.row {
+    width: 100%;
 }
 
 .headerSection {
@@ -68,4 +90,10 @@ body {
 }
 .iconBox:hover {
     background-color:lightgrey;
+}
+.navMenu {
+    text-align: right;
+    align-content: flex-end;
+    padding-right: 0%;
+    margin-right: 0%;
 }
