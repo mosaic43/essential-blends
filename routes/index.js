@@ -25,6 +25,10 @@ router.get('/welcome',
   }
 );
 
+router.get('/skincare', (req, res) => {
+    res.render('index/skin');
+  });
+
 
 
   module.exports = router;
