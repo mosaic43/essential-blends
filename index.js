@@ -1,8 +1,22 @@
 
 const express = require('express');
 const path = require('path')
+//new
 
-// const accountRoute = require('./public/javascripts/data.js');
+const db = require('./database/index') //test
+
+const { Pool, Client } = require('pg')
+const connectionString = 'postgressql://postgres:postgres@localhost:5432/remedies'
+
+const client = new Client({
+    connectionString: connectionString
+});
+client.connect();
+
+
+
+
+//new
 const exphbs = require('express-handlebars');
 const bodyParser = require('body-parser');
 

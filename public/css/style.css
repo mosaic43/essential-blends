@@ -2,11 +2,11 @@
 body {
     background-color: white;
 }
-.setHeight {
-    height:82vh;
+/* .setHeight {
+    height:84vh;
     padding: 0%;
     margin: 0%;
-}
+} */
 .setWidth {
     padding: 0%;
     margin: 0%;
@@ -46,7 +46,7 @@ body {
     background-size: cover;
     margin: 0%;
     padding: 0%;
-    height: 100%;
+    height: 81vh;
     width: 100vw;
 }
 .row {
@@ -58,7 +58,15 @@ body {
     background-image: url(/images/lavender.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 0%;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(97, 99, 96);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .swatch2 {
     width: 25%;
@@ -67,6 +75,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 24%;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .swatch3 {
     width: 25%;
@@ -74,6 +91,15 @@ body {
     background-image: url(/images/sandalwood.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 6%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(97, 99, 96);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .swatch4 {
     width: 25%;
@@ -82,6 +108,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 24%;
+    padding: 6%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(97, 99, 96);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .swatch5 {
     width: 25%;
@@ -89,6 +124,15 @@ body {
     background-image: url(/images/pomegranate.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 6%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(97, 99, 96);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .swatch6 {
     width: 25%;
@@ -96,6 +140,15 @@ body {
     background-image: url(/images/acne.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 6%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(97, 99, 96);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .carrieroilswatch1 {
     width: 25%;
@@ -104,6 +157,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0%;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .carrieroilswatch2 {
     width: 25%;
@@ -112,6 +174,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 24%;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .carrieroilswatch3 {
     width: 25%;
@@ -119,6 +190,15 @@ body {
     background-image: url(/images/almond.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .carrieroilswatch4 {
     width: 25%;
@@ -127,6 +207,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 24%;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .carrieroilswatch5 {
     width: 25%;
@@ -134,6 +223,15 @@ body {
     background-image: url(/images/lemon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 .carrieroilswatch6 {
     width: 25%;
@@ -141,14 +239,87 @@ body {
     background-image: url(/images/jojoba.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 7%;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(243, 236, 169);
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(204, 204, 207);
+    font-family: 'Franklin Gothic Medium';   
+    align-content: center;
+    text-align: center;
 }
 
 .skincare {
-  
-  
+    color: rgb(29, 27, 27) !important;
+    background-color: rgb(253, 253, 253);
+    font-family: cursive;
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.register {
+    color: rgb(29, 27, 27) !important;
+    background-image: url(/images/sign2.jpg);
+    background-repeat: no-repeat;
+    font-family: cursive;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    height: 81vh;
+    width: 100vw;
 }
 .subTitle {
 font-family: 'Franklin Gothic Medium';    
 margin-left: 5%;
 color: rgb(105, 99, 99);
+}
+.subTitle2 {
+    font-family: 'Franklin Gothic Medium';    
+    margin-left: 30%;
+    color: rgb(105, 99, 99);
+    }
+.subTitle3 {
+        font-family: 'Franklin Gothic Medium';    
+        margin-left: 15%;
+        color: rgb(105, 99, 99);
+ }
+.signup {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2%;
+    width: 50%;
+    height: 65vh;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(105, 99, 99);
+    background-color: rgb(243, 243, 243);
+    opacity: .8;
+    font-family: 'Franklin Gothic Medium';  
+}
+.login {
+    color: rgb(29, 27, 27) !important;
+    background-image: url(/images/login.jpg);
+    background-repeat: no-repeat;
+    font-family: cursive;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    height: 81vh;
+    width: 100vw;
+}
+.login2 {
+    margin-left: 5%;
+    margin-right: 25%;
+    padding: 2%;
+    width: 50%;
+    height: 65vh;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: rgb(260, 260, 260);
+    opacity: .8;
+    font-family: 'Franklin Gothic Medium';  
 }
