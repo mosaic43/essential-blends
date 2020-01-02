@@ -3,7 +3,7 @@ const router = express.Router();
 const exphbs = require('express-handlebars');
 const bodyParser = require('body-parser');
 const { Pool, Client } = require('pg');
-
+// import essentialOils from './javascripts/shop'
 
 const app = express();
 app.use(bodyParser.urlencoded({
@@ -38,7 +38,14 @@ router.get('/SignUp', (req, res) => {
     res.render('index/login');
   });
 
+  router.get('/shop', (req, res) => {
+    res.render('index/shop')
+    // res.render('index/shop', {
+    //     essentialOils: essentialOils
+    //  });
+  });
 
+// router.post('/login', passport.authenticate('local'), users.login)
 
 //register Post
 router.post('/SignUp', (req, res) => {

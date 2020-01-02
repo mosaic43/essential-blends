@@ -30,3 +30,30 @@
 
 
 // module.exports = router;
+
+
+
+  
+module.exports = {
+	login: (req, res) => {
+        const { user } = req
+console.log("login")
+console.log(user)
+        //res.json(user)
+        res.redirect('/')
+	},
+
+	logout: (req, res, next) => {
+		req.session.destroy((err) => {
+			if(err) return next(err)
+
+			req.logout()
+
+			res.sendStatus(200)
+		})
+	},
+
+	ping: function(req, res) {
+		res.sendStatus(200)
+	}
+}
