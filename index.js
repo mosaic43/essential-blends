@@ -31,7 +31,7 @@ const exphbs = require('express-handlebars');
 const index = require('./routes/index');
 
 const app = express();
-
+// Add express sessions here***************
 // require('./config/passport')(passport, db)
 
 app.use(passport.initialize())

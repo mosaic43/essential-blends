@@ -23,7 +23,7 @@ export let essentialOils = [
     {name: "Rose", quantity: 0, price: 2},
     {name: "Myrrh", quantity: 0, price: 2},
     {name: "Jojoba", quantity: 0, price: 2},
-]
+];
 
 export const carrierOils = [
     {name: "Almond", quantity: 0, price: 3},
